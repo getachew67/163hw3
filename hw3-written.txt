@@ -1,0 +1,24 @@
+1. a) I think the bar chart is an effective visualization for this data. It 
+    successfully contextualizes the percentages by displaying them next to 
+    each other, communicating to the viewer that the percentages are
+    very similar across all sexes.
+
+   b) The line chart is an effective visualization for this data. It implements
+    color to clearly contrast those with minimum bachelor degrees versus
+    minimum high school degrees. The line is also effective for seeing the
+    small changes in percentage from year to year.
+
+2. There are several limitations of this data. Most obvious, there is a large
+    amount of data missing, especially documenting people's races. This makes
+    it difficult to get a clear picture of the change in degree attainment of
+    any given race over a period of time. 
+
+3. One potential ethical problem is the dataset's strict use of Male/Female/All
+    sexes when there has been an increasing rise in individuals who identify as
+    Transgender. Continuing to make generalizations off of data that does not 
+    include a growing category of people could raise ethical concerns. Another
+    potential ethical problem would arise from not contexualizing the data with
+    historical events. For example, if someone made conclusions about the 
+    percentage of African Americans/women attaining degrees in the early
+    twentieth century when their rights were severely limited, this would be
+    unethical. 
